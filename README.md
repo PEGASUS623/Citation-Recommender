@@ -62,8 +62,3 @@ The Citation Recommender uses Flask, pandas, and TextBlob to suggest credible so
 - Integration with Citation Hunt to suggest citations and other writing platforms
 - Expansion to include additional languages and sources
 - Incorporation of user feedback to improve source suggestions over time
-
-## Contributors
-- [Eesha Dasi](https://github.com/eeshadasi)
-- [Chanda Srija](https://github.com/SrijaC2)
-- [Y Vineetha Reddy](https://github.com/vineethayasa)
